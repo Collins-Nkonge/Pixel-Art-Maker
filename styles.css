@@ -1,6 +1,8 @@
 body {
     text-align: center;
     background-color: beige;
+    border: 5px solid rgb(104, 89, 89);
+    height: 630px;
 }
 .column {
     float: left;
